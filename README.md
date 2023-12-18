@@ -1,4 +1,4 @@
-# Ender Hive
+# Plugin Template
 
 > WordPress plugin ...
 
